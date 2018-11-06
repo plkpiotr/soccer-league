@@ -20,6 +20,7 @@ Project written because of [Database systems](https://syllabuskrk.agh.edu.pl/201
   - won-home.sql
 ## Features
 `create.sql` creates 6 entities connected 9 relations [stadiums, teams, players, matches, results and scores].
+
 `insert.sql` adds rows to these tables - 12 stadiums and teams, 11 players to each team and results of 24 matches with details.
 
 `drop.sql` deletes all of data.
