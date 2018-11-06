@@ -5,7 +5,7 @@ join teams AS a ON match.id_away = a.id_team
 join results using (id_match)
 where id_home = 7 OR id_away = 7;
 
-/* wyświetl wyniki meczów Polonii Przemyśl wraz z pełnymi nazwami drużyn, z którymi grała:
+/*
 
      home     |   |   |        away         
 --------------+---+---+---------------------
