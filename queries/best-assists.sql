@@ -11,9 +11,9 @@ order by min(goals) desc, max(goals) desc;
  last_name | min | max |        club         
 -----------+-----+-----+---------------------
  Twister   |   3 |   3 | AC Milan
- Krauze    |   2 |   3 | Wisła Kraków
+ Krauze    |   2 |   3 | Wisła Cracow
  Fox       |   2 |   2 | AC Milan
- Siwobrody |   2 |   2 | Wisła Kraków
+ Siwobrody |   2 |   2 | Wisła Cracow
  Stewart   |   2 |   2 | Paris Saint-Germain
  Rafael    |   2 |   2 | FC Barcelona
  Kyriakou  |   2 |   2 | Juventus

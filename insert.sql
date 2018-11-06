@@ -17,7 +17,7 @@ insert into teams values(3, 3, 'Borussia Dortmund', 'BOR');
 insert into teams values(4, 4, 'Lyon', 'LYO');
 insert into teams values(5, 5, 'BATE Borisov', 'BAT');
 insert into teams values(6, 6, 'Schalke 04', 'SCH');
-insert into teams values(7, 7, 'Wisła Kraków', 'WIS');
+insert into teams values(7, 7, 'Wisła Cracow', 'WIS');
 insert into teams values(8, 8, 'Paris Saint-Germain', 'PSG');
 insert into teams values(9, 9, 'Juventus', 'JUV');
 insert into teams values(10, 10, 'Ajax Amsterdam', 'RES');

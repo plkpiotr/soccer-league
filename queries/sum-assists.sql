@@ -12,12 +12,12 @@ order by sum(assists) desc, last_name;
 --------------+-------+---------------------
  Flash        |     4 | AC Milan
  Groshkov     |     4 | AC Milan
- Siwobrody    |     4 | Wisła Kraków
+ Siwobrody    |     4 | Wisła Cracow
  Subbotin     |     4 | Juventus
  Brown        |     3 | Paris Saint-Germain
- Dyniarski    |     3 | Wisła Kraków
+ Dyniarski    |     3 | Wisła Cracow
  Marciulaitis |     3 | Paris Saint-Germain
- Warcholek    |     3 | Wisła Kraków
+ Warcholek    |     3 | Wisła Cracow
  Bruker       |     2 | FC Barcelona
  Chapko       |     2 | Legia Warsaw
  Jaaskalainen |     2 | AC Milan

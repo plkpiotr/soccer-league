@@ -10,7 +10,7 @@ limit 5;
 
  total |        club         
 -------+---------------------
-    14 | Wisła Kraków
+    14 | Wisła Cracow
     13 | AC Milan
     12 | Paris Saint-Germain
      9 | Juventus

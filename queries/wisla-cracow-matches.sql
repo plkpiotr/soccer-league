@@ -9,10 +9,10 @@ where id_home = 7 OR id_away = 7;
 
      home     |   |   |        away         
 --------------+---+---+---------------------
- Wisła Kraków | 3 | 3 | Paris Saint-Germain
- Wisła Kraków | 4 | 0 | BATE Borisov
- Schalke 04   | 0 | 5 | Wisła Kraków
- Juventus     | 2 | 5 | Wisła Kraków
+ Wisła Cracow | 3 | 3 | Paris Saint-Germain
+ Wisła Cracow | 4 | 0 | BATE Borisov
+ Schalke 04   | 0 | 5 | Wisła Cracow
+ Juventus     | 2 | 5 | Wisła Cracow
 (4 rows)
 
 */
