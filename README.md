@@ -1,8 +1,8 @@
-# League
+# Soccer league
 ## Entity Relationship Diagram
 ![erd](https://user-images.githubusercontent.com/21959354/48036103-272de380-e167-11e8-86a6-d4df79c1f6f6.png)
 ## Description
-Project written because of [Database systems](https://syllabuskrk.agh.edu.pl/2016-2017/en/magnesite/study_plans/stacjonarne-automatyka-i-robotyka--5/module/ear-1-713-s-bazy-danych-i-systemy-zarzadzania-bazami) classes taking place in the seventh semester at the AGH University of Science and Technology in Cracow. SQL scripts create and fill simple database regarding a football league.
+Project written because of [Database systems](https://syllabuskrk.agh.edu.pl/2016-2017/en/magnesite/study_plans/stacjonarne-automatyka-i-robotyka--5/module/ear-1-713-s-bazy-danych-i-systemy-zarzadzania-bazami) classes taking place in the seventh semester in the field of study of "Automatics and robotics" at the AGH University of Science and Technology in Cracow.
 ## Project's structure
 - create.sql
 - drop.sql
@@ -30,5 +30,7 @@ Remaining SQL scripts form the basis further work on the database.
 Enter into terminal: `psql -U postgres -f create.sql` to create tables.
 
 Then: `psql -U postgres -f insert.sql` to add default data.
+## Comments
+[PDF report in Polish](https://github.com/plkpiotr/soccer-league/files/2556814/opis.pdf)
 ## License
 MIT
