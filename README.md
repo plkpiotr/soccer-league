@@ -9,7 +9,7 @@ Project written because of [Database systems](https://syllabuskrk.agh.edu.pl/201
 │   drop.sql
 │   insert.sql
 │
-└───queries
+└───queries:
         all-dutchmen.sql
         at-least-two-assists-in-one-match.sql
         attendance-less-than-half.sql
